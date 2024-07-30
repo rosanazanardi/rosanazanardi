@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rosanazanardi
+- 👋 Oi, I’m @rosanazanardi
 - 🌱 I’m currently learning tecnology
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm nice
