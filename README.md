@@ -1,7 +1,6 @@
-- 👋 Oi, I’m @rosanazanardi
-- 🌱 I’m currently learning tecnology
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm nice
+🎀 hi, i'm rosana
+🩰 she/her
+🦢 i'm your fav blonde
 
 <!---
 rosanazanardi/rosanazanardi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
